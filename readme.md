@@ -1,5 +1,5 @@
 ## 📖 需要回顾的知识点
-- [] 原型
+-[] 原型
 - [] Object.defineProperty()
 - [] Object.keys()
 
